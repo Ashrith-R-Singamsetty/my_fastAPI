@@ -1,0 +1,6 @@
+{
+  "name": "FastAPI Interactive",
+  "description": "An interactive, browser-based learning platform for FastAPI with live execution, documentation generation, and real-time validation via Pyodide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
